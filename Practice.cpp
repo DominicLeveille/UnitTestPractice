@@ -44,10 +44,11 @@ bool Practice::isPalindrome(string input)
 {
   for(unsigned int i=0; i < input.size(); i++)
   {
-    if( input[i] < 'A' || input[i] > 'Z' )
+    if( input[i] >= 'A' && input[i] <= 'Z' )
     {
       //change lower case to upper case
-      input[i] = input[i] - ('a' - 'A');
+      //input[i] = input[i] - ('a' - 'A');
+      input[i] = input[i] + 32;
     }
   }
   for(unsigned int i=0; i < input.size()/2; i++)
