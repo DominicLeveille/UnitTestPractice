@@ -1,8 +1,8 @@
 # UnitTestPractice
 
-[![Build Status](https://travis-ci.com/ChicoState/UnitTestPractice.svg?branch=master)](https://travis-ci.com/ChicoState/UnitTestPractice)
+[![Build Status](https://travis-ci.com/DominicLeveille/UnitTestPractice.svg?branch=master)](https://travis-ci.com/DominicLeveille/UnitTestPractice)
 
-[![Coverage Status](https://coveralls.io/repos/github/ChicoState/UnitTestPractice/badge.svg?branch=master)](https://coveralls.io/github/ChicoState/UnitTestPractice?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/DominicLeveille/UnitTestPractice/badge.svg?branch=master)](https://coveralls.io/github/DominicLeveille/UnitTestPractice?branch=master)
 
 ## Getting Started
 
